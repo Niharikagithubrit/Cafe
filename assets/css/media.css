@@ -1,0 +1,126 @@
+@media (max-width: 480px) {
+.antique_cafe .container {
+    width: 100%;
+}
+.our_cafe_one .container {
+    width: 100%;
+}
+.antique_cafe {
+    padding: 55px 0px;
+}
+.antique h1 {
+    font-size: 16px;
+}
+.antique h3 {
+    font-size: 15px;
+}
+.cafe p {
+    font-size: 14px;
+}
+.menu {
+    margin-bottom: 20px;
+}
+.cafe_explore a {
+    padding: 18px 31px;
+    font-size: 16px;
+}
+.our_cafe_heading {
+    margin-top: 33px;
+    margin-bottom: 33px;
+}
+.our_cafe_heading h1 {
+    font-size: 15px;
+    font-weight: bold;
+}
+.menu_description h5 {
+    font-size: 12px;
+}
+.menu_description p {
+    font-size: 10px;
+    margin-bottom: 0px;
+}
+.about {
+    margin-top: 100px;
+    margin-left: 0px;
+}
+.about h1 {
+    font-size: 20px;
+}
+.about p {
+    font-size: 14px;
+}
+.contact {   
+    margin-right: 0px;
+    margin-bottom: 27px;
+}
+.contact h2 {
+    font-size: 20px;
+}
+.contact_button {
+    text-align: left;
+    margin-top: 41px;
+    margin-bottom: 23px;
+}
+.contact p {
+    font-size: 14px;
+}
+.contact_button a {
+    padding: 17px 37px;
+    font-size: 14px;
+}
+.information {
+    margin-left: 0px;
+    margin-bottom: 27px;
+}
+.information .form-control {
+    padding-bottom: 14px;
+}
+.copyright p {
+    font-size: 16px;
+    text-align: center;
+}
+.design p {
+    text-align: center;
+    font-size: 16px;
+}
+.contact_section {
+    padding: 100px 0px 0px 0px;
+}
+.information_button  .btn {
+    font-size: 16px;
+}
+.about_button {
+    margin-bottom: 86px;
+}
+.navbar_section .navbar-light .navbar-nav .nav-link {
+    border-bottom: 2px solid #CC9966;
+}
+.about_button a {
+    font-size: 14px;
+    padding: 17px 37px;
+}
+.menu .col-8 {
+    order: 2;
+}
+.menu_description.menu_two {
+    text-align: initial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

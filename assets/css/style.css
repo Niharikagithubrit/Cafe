@@ -1,0 +1,248 @@
+*{
+	margin: 0px;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Raleway', sans-serif;
+}
+.navbar_section {
+    width: 100%;
+    background: url('../images/antique-cafe-bg-01.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar_section .navbar-collapse {
+    justify-content: end;
+}
+.navbar_section nav.navbar.navbar-expand-lg.navbar-light {
+    background: #0000009e !important;
+}
+.navbar_section .navbar-light .navbar-nav .nav-link {
+    color: #CC9966;
+    font-size: 26px;
+    margin-left: 43px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.sticky + .content {
+  padding-top: 102px;
+}
+.navbar_section .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    border-bottom: 2px solid #CC9966;
+}
+.navbar_section li.nav-item a:hover {
+    border-bottom: 2px solid #CC9966;
+}
+.antique_cafe .container {
+    width: 400px;
+}
+.antique {
+    text-align: center;
+    background: #00000080;
+    padding: 33px;
+}
+.antique h1 {
+    color: white;
+    font-weight: bold;
+}
+.antique h3 {
+    color: #CC9966;
+}
+.antique_cafe {
+    padding: 150px 0px;
+}
+.cafe {
+    text-align: center;
+    background: #00000080;
+    padding: 33px;
+    margin-top: 20px;
+}
+.cafe p {
+    color: white;
+    line-height: 1.7;
+    text-align: justify;
+}
+.cafe a {
+    text-decoration: none;
+    color: #ff6;
+}
+.cafe_explore {
+    text-align: center;
+    margin-top: 52px;
+}
+.cafe_explore a {
+    background: #00000080;
+    color: #CC9966;
+    padding: 30px 31px;
+    border-radius: 11px;
+    font-size: 23px;
+    font-weight: bold;
+}
+.cafe_explore i {
+    border-bottom: 2px solid #CC9966;
+    padding-bottom: 2px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+.our_cafe {
+    width: 100%;
+    background: url('../images/antique-cafe-bg-02.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 90px;
+}
+.our_cafe_one .container {
+    width: 355px;
+}
+.our_cafe_heading {
+    background: white;
+    text-align: center;
+    margin-top: 80px;
+    padding: 15px;
+    border-radius: 11px;
+    margin-bottom: 90px;
+}
+.our_cafe_heading h1 {
+    color: #544639;
+}
+.menu {
+    background: #544639;
+    padding: 20px;
+    border-radius: 10px;
+}
+.menu_image img {
+    width: 100%;
+    border-radius: 7px;
+}
+.menu_description {
+    margin-top: 0px;
+}
+.menu_description h5 {
+    color: #fc6;
+}
+.menu_description p {
+    color: white;
+}
+.menu .row {
+    margin-bottom: 20px;
+}
+.menu_description.menu_two {
+    text-align: end;
+}
+.about_section{
+    width: 100%;
+    background: url('../images/antique-cafe-bg-03.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+.about {
+    margin-top: 170px;
+    background: #ffffffad;
+    text-align: justify;
+    padding: 59px;
+    border-radius: 7px;
+    margin-left: 43px;
+}
+.about h1 {
+    color: #006666;
+}
+.about p span {
+    color: #066;
+}
+.about_button{
+    margin-bottom: 270px;
+    margin-left: 43px;
+    margin-top: 43px;
+}
+.about_button a {
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+    background: #006666;
+    padding: 12px 37px;
+    border-radius: 7px;
+}
+.about_button i {
+    margin-right: 16px;
+}
+.contact_section {
+    width: 100%;
+    background: url('../images/antique-cafe-bg-04.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0px 20px 0px;
+}
+.contact {
+    background: #ffffffad;
+    padding: 33px;
+    border-radius: 7px;
+    margin-right: 33px;
+    text-align: justify;
+    margin-bottom: 266px;
+}
+.contact h2 {
+    color: #006666;
+    margin-bottom: 20px;
+}
+.contact p span {
+    color: #006666;
+}
+.contact_button {
+    text-align: center;
+    margin-top: 74px;
+    margin-bottom: 100px;
+}
+.contact_button a {
+    padding: 23px 43px;
+    text-decoration: none;
+    color: white;
+    background: #006666;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.contact_button i {
+    margin-right: 20px;
+}
+.information {
+    background: #000000a6;
+    padding: 33px;
+    border-radius: 7px;
+    margin-left: 33px;
+    text-align: justify;
+    margin-bottom: 266px;
+}
+.copyright p{
+    color: white;
+    font-size: 20px;
+}
+.design {
+    text-align: end;
+}
+.design p{
+    color: white;
+    font-size: 20px;
+}
+.information .form-control {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #CC9966;
+    border-radius: 0;
+    padding-bottom: 31px;
+}
+.information_button {
+    text-align: end;
+}
+.information_button  .btn {
+    color: white;
+    font-size: 20px;
+}
